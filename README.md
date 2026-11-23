@@ -56,3 +56,17 @@ The objective of this project is to understand hospital operational data and con
 ## Author
 
 Vikram G
+
+## Dashboard Screenshots
+
+### Overview Dashboard
+![Overview](Overview.png)
+
+### Patients Dashboard
+![Patients](Patients.png)
+
+### Billing Dashboard
+![Billing](Billing.png)
+
+### Doctors and Department Dashboard
+![Doctors](Doctors.png)
